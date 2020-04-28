@@ -44,9 +44,23 @@ public class InformacoesUsuarioTest {
 
     //Validar que dentro do elemento com class "me" possui o texto "Hi, Julio"
 
-    WebElement me = navegador.findElement(By.className("me"));
-    String texto = me.getText();
-    assertEquals("Hi, Julio", texto);
+    //Clicar em um elemento que possui a class "me"
+     navegador.findElement(By.className("me"));
+
+     //Clicar no link "MORE DATA ABOUT YOU"
+
+     //Clicar no button add more data através do xpath "//button[@data-target='addmoredata']"
+
+      //Identificar a pop up onde está o formulario de id ="addmoredata"
+
+      // Na combo de name type, escolher a opção "Phone"
+
+      //No campo de name "contact" digitar o telefone "11920021852"
+
+      // clicar no link de texto "SAVE"
+
+      // Na mensagem de id "toast-container" validar que o texto é "Your contact has been added!"
+
 }
 
 
