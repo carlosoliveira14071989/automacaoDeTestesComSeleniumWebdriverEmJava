@@ -1,8 +1,9 @@
-testAdicionarUmaInformacaoAdicionalDoUsuario,tipo,contato,mensagem,Duration(ms),Duration(ms),Duration(ms)
-"",Phone,11920021708,Your contact has been added!,2117.0,2117.0,2117.0
-"",Phone,11920021709,Your contact has been added!,1497.0,1497.0,1497.0
-"",Phone,11920021710,Your contact has been added!,1513.0,1513.0,1513.0
-"",Phone,11920021711,Your contact has been added!,1631.0,1631.0,1631.0
-"",Phone,11920021712,Your contact has been added!,1557.0,1557.0,1557.0
-"",Phone,11920021707,Your contact has been added!,1499.0,1499.0,1499.0
-"",E-mail,carlosoliveira1989@hotmail.com,Your contact has been added!,1693.0,1693.0,1693.0
+testAdicionarUmaInformacaoAdicionalDoUsuario, tipo,contato,mensagem
+                                            ,Phone,11920021708,Your contact has been added!
+                                            ,Phone,11920021709,Your contact has been added!
+                                            ,Phone,11920021710,Your contact has been added!
+                                            ,Phone,11920021711,Your contact has been added!
+                                            ,Phone,11920021712,Your contact has been added!
+                                            ,Phone,11920021707,Your contact has been added!
+                                            ,E-mail,carlosoliveira1989@hotmail.com,Your contact has been added!
+
